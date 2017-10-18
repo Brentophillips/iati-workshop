@@ -16,7 +16,7 @@ IATI Training Resources:
 * Learn about IATI Organization [Identifiers](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/reporting-org/) and Activity [Identifiers](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/iati-identifier/)
 * Look over IATI's information fields or [Elements](http://iatistandard.org/202/activity-standard/summary-table/)
 * Learn about [Codelists](http://iatistandard.org/202/codelists/)
-* Open and save an IATI basic file [template](http://hxs.ngo/basic_iati_template.xml)
+* Open and save a basic IATI file [template](http://hxs.ngo/basic_iati_template.xml)
 * Open the template in a code or text editor
 * Populate the template with some test data
 * Try [validating](http://validator.iatistandard.org/) and [previewing](http://preview.iatistandard.org/) the file
