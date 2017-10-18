@@ -9,3 +9,4 @@ IATI Training Resources:
 * IATI Discussion [Forum](https://discuss.iatistandard.org/t/welcome-to-iati-discuss/6)
 * List of IATI [Elements](https://github.com/Humanitarian-AI/IATI-505000/blob/master/Fields/Fields_IATI.csv)
 * Example IATI [File](http://hxs.ngo/iati_2.02_example.xml)
+* File [Preview](http://preview.iatistandard.org/) Tool
