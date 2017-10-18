@@ -20,3 +20,4 @@ IATI Training Resources:
 * Open the template in a code or text editor
 * Populate the template with some test data
 * Try [validating](http://validator.iatistandard.org/) and [previewing](http://preview.iatistandard.org/) the file
+* Test the preview tool using a link to an example file (http://hxs.ngo/basic_iati_template.xml)
