@@ -14,8 +14,8 @@ IATI Training Resources:
 ## Excercises
 
 * Learn about IATI Organization [Identifiers](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/reporting-org/) and Activity [Identifiers](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/iati-identifier/)
-* Learn about [Codelists](http://iatistandard.org/202/codelists/)
 * Look over IATI's information fields or [Elements](http://iatistandard.org/202/activity-standard/summary-table/)
+* Learn about [Codelists](http://iatistandard.org/202/codelists/)
 * Open and save an IATI "null" file [template]()
 * Open the template in a code or text editor
 * Populate the template with some test data
